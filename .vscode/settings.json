@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/tidal/.platformio/penv/bin:/home/tidal/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
